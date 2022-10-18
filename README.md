@@ -10,27 +10,30 @@ Group Members and sections:
 4.	SWE Sec 3: Mayada Mohamed Zain
 5.	SWE Sec 3: Yara Ahmed Mohamed
 6.	AI Sec 1: Abdelrahman Maged Zaki
-7.	AI Sec 1: Adham Khaled Ali
+7.	AI Sec 1: Adham Khaled Ali.
  
 1. Introduction
+
 This section should describe the need for the system. It should briefly describe the system’s functions
 and explain how it will work with other systems. It should also describe how the system fits into the
 overall business or strategic objectives of the organization commissioning the software.
 2. Context Diagram
+
 This section presents the context diagram for the system that identifies the flows of information between
 3. User Requirements
-1)	The FMS (Furniture Management System) shall generate reports showing the number of sold items, the type of sold items and the profit as well as a report showing products less than certain quantities weekly.
-2)	The Admin shall be able to delete products, check reports, approve of new suppliers. 
-3)	The Client shall be able to search and select products as many as they want to buy and be able to pay in either cash or visa.
-4)	The Client shall be able to send complaints and inquiries.
-5)	The Supplier and the Client both shall be able to create accounts.
-6)	The Supplier shall be able to Deliver customized and non-customized products to the suppliers’ manager.
-7)	The Admin and Customer Support shall be able to manage the Customers’ complaints and inquiries.
-8)	The Custom Orders Manager shall be able to receive custom orders from clients and send them to suppliers.
-9)	The Suppliers’ Manager shall be able to track product’s quantity report, determine needed products and report them to the suppliers.
-10)	The Suppliers’ Manger shall be able to manage The Suppliers delivery times and receive the products.
-4. Functional Requirements
-1)	Name: Client Account Registration.
+
+5)	The FMS (Furniture Management System) shall generate reports showing the number of sold items, the type of sold items and the profit as well as a report showing products less than certain quantities weekly.
+6)	The Admin shall be able to delete products, check reports, approve of new suppliers. 
+7)	The Client shall be able to search and select products as many as they want to buy and be able to pay in either cash or visa.
+8)	The Client shall be able to send complaints and inquiries.
+9)	The Supplier and the Client both shall be able to create accounts.
+10)	The Supplier shall be able to Deliver customized and non-customized products to the suppliers’ manager.
+11)	The Admin and Customer Support shall be able to manage the Customers’ complaints and inquiries.
+12)	The Custom Orders Manager shall be able to receive custom orders from clients and send them to suppliers.
+13)	The Suppliers’ Manager shall be able to track product’s quantity report, determine needed products and report them to the suppliers.
+14)	The Suppliers’ Manger shall be able to manage The Suppliers delivery times and receive the products.
+15. Functional Requirements
+16)	Name: Client Account Registration.
 Description: This function creates accounts for clients.
 Inputs: - Name
 -	Password
