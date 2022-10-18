@@ -10,17 +10,17 @@ Group Members and sections:
 4.	SWE Sec 3: Mayada Mohamed Zain
 5.	SWE Sec 3: Yara Ahmed Mohamed
 6.	AI Sec 1: Abdelrahman Maged Zaki
-7.	AI Sec 1: Adham Khaled Ali.
+7.	AI Sec 1: Adham Khaled Ali
  
-1. Introduction
+# 1. Introduction
 
 This section should describe the need for the system. It should briefly describe the system’s functions
 and explain how it will work with other systems. It should also describe how the system fits into the
 overall business or strategic objectives of the organization commissioning the software.
-2. Context Diagram
+# 2. Context Diagram
 
 This section presents the context diagram for the system that identifies the flows of information between
-3. User Requirements
+# 3. User Requirements
 
 5)	The FMS (Furniture Management System) shall generate reports showing the number of sold items, the type of sold items and the profit as well as a report showing products less than certain quantities weekly.
 6)	The Admin shall be able to delete products, check reports, approve of new suppliers. 
@@ -32,8 +32,9 @@ This section presents the context diagram for the system that identifies the flo
 12)	The Custom Orders Manager shall be able to receive custom orders from clients and send them to suppliers.
 13)	The Suppliers’ Manager shall be able to track product’s quantity report, determine needed products and report them to the suppliers.
 14)	The Suppliers’ Manger shall be able to manage The Suppliers delivery times and receive the products.
-15. Functional Requirements
-16)	Name: Client Account Registration.
+# 4. Functional Requirements
+
+1)	Name: Client Account Registration.
 Description: This function creates accounts for clients.
 Inputs: - Name
 -	Password
@@ -73,7 +74,8 @@ Source: The Client
 Pre:  
 Post: Calculates expenses
 Output: Displays items selected and total price.
-5. Non-Functional Requirements
+# 5. Non-Functional Requirements
+
 1)	Acceptability: The system should be easy to use by the suppliers and clients without any previous knowledge. The system should be easy to use by Managers, Admins, and Employees after a 2-hour training session.
 2)	 Usability: The screens prompting the user for different input should clearly state what the user should input.
 3)	 Security: The system shall protect the customer's privacy by preventing any private info leakage.
